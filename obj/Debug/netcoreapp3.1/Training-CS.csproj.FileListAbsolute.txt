@@ -1,0 +1,12 @@
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/Training-CS.deps.json
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/Training-CS.runtimeconfig.json
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/Training-CS.runtimeconfig.dev.json
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/Training-CS.dll
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/Training-CS.pdb
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.csprojAssemblyReference.cache
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.AssemblyInfoInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.AssemblyInfo.cs
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.csproj.CoreCompileInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.dll
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.pdb
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.genruntimeconfig.cache
