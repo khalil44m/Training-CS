@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b28rzE2LXD9jlID/36zSli15KZoox3oYTyTXGFJXJTuu+yMM3Jf2bgDASi0vzXCwd6O+wKyHI6N5F9QakJ+6sQ==",
+  "dgSpecHash": "fY3HckA4yDd5V6uebQUbeBmyQ+SKEvNNmUwxgeJyoxkJRmRWYR4fWhHNRvKWyr/r1O5JascRkBG8LBdTvw63Fw==",
   "success": true,
   "projectFilePath": "/Users/khalilmejouate/Projects/Training-CS/Training-CS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/khalilmejouate/.nuget/packages/mathnet.numerics/4.12.0/mathnet.numerics.4.12.0.nupkg.sha512"
+  ],
   "logs": []
 }

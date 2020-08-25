@@ -10,3 +10,5 @@
 /Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.dll
 /Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.pdb
 /Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.genruntimeconfig.cache
+/Users/khalilmejouate/Projects/Training-CS/bin/Debug/netcoreapp3.1/MathNet.Numerics.dll
+/Users/khalilmejouate/Projects/Training-CS/obj/Debug/netcoreapp3.1/Training-CS.csproj.CopyComplete
